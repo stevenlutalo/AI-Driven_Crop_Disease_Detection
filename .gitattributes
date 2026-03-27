@@ -1,0 +1,9 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Treat specific file types as text
+*.jsx text
+*.js text
+*.css text
+*.html text
+*.py text
