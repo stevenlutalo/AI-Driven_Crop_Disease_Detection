@@ -296,11 +296,6 @@ These bugs were identified and fixed during development. All are documented with
 
 ---
 
-## Academic Reference
-
-This system is built based on the following peer-reviewed research paper:
-
-> Ansari, A., Singh, S., & Akhtar, N. (2025). *AI-Driven Crop Disease Detection and Management in Smart Agriculture*. International Journal of Scientific Research in Science and Technology (IJSRST), Volume 12, Issue 3, pp. 309–319. doi: 10.32628/IJSRST2512341
 
 ---
 
